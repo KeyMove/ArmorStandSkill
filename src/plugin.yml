@@ -1,0 +1,8 @@
+## YAML Template.
+---
+name: ArmorStandSkill
+main: com.github.KeyMove.ArmorStandSkill
+version: 1.0.0
+
+commands:
+    armskill:
